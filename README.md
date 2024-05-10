@@ -23,7 +23,6 @@ License: You must have a valid license purchased only from themeforest(the above
       content="admin template, Midone admin template, dashboard template, flat admin template, responsive admin template, web app"
     />
     <meta name="author" content="LEFT4CODE" />
-    <title>Installation - Midone - ReactJS Admin Dashboard Starter Kit</title>
     <!-- BEGIN: CSS Assets-->
     <link rel="stylesheet" href="dist/css/app.css" />
     <!-- END: CSS Assets-->
